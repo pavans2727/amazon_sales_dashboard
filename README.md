@@ -1,0 +1,1 @@
+This project showcases an interactive Amazon Sales Dashboard created using Power BI. The dashboard provides a comprehensive analysis of Amazon sales data, allowing users to gain key insights into performance metrics such as total revenue, units sold, profit margins, and more.
